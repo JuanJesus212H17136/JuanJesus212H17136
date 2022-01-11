@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @JuanJesus212H17136
--Estudiante de Ingenieri a en sistemas Computacionales en la Universidad Juarez Autonoma de Tabasco
+- Estudiante de Ingenieria en Sistemas Computacionales
+- Univers Juarez Autonoma de Tabasco
