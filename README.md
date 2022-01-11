@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @JuanJesus212H17136
 - Estudiante de Ingenieria en Sistemas Computacionales
 - Univers Juarez Autonoma de Tabasco
+- Actualmete manejo PseInt
+- En camino de aprender mucho mas
